@@ -1,4 +1,4 @@
-[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://isaacjosephhorton.github.io)
+[![Social banner for jh3y](https://github.com/isaacjosephhorton/isaacjosephhorton/assets/img/ijhbanner.svg)](https://isaacjosephhorton.github.io)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Isaac.
