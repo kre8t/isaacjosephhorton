@@ -1,4 +1,4 @@
-[![Social banner for IJH](https://github.com/isaacjosephhorton/isaacjosephhorton/assets/img/ijhbanner.svg)](https://isaacjosephhorton.github.io)
+[![Social banner for IJH](https://raw.githubusercontent.com/isaacjosephhorton/isaacjosephhorton/main/assets/img/ijhbanner.svg)](https://isaacjosephhorton.github.io)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Isaac.
