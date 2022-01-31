@@ -1,5 +1,5 @@
 [![Social banner for IJH](https://raw.githubusercontent.com/isaacjosephhorton/isaacjosephhorton/main/assets/img/ijhbanner.svg)](https://isaacjosephhorton.github.io)
-<h1 align='center'> Hi! :wave:</h1>
+<h1 align='center'> Hey Amazing People!</h1>
 <p align='center'>
 I'm Isaac.
 </p>
